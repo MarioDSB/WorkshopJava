@@ -1,0 +1,6 @@
+In JavaRPG:
+  find -name "*.java" > source.txt
+  javac @source.txt
+  cd ..
+  
+  java JavaRPG.src.Game.JavaRPG
