@@ -27,8 +27,6 @@ class InitialSettings {
 
         this.setupEquipment();
 
-        in.close();
-
         return player;
     }
 
